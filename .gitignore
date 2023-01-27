@@ -1,0 +1,4 @@
+*.o
+threebody
+gravity-simulator
+test*
